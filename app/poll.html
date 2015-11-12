@@ -1,0 +1,169 @@
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF8">
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.css">
+    <style>
+    .centered {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    
+    .poll-row {
+        height: 50%;
+        margin-bottom: 30px;
+    }
+    
+    .poll-option {
+        height: 300px;
+    }
+    
+    .option1 {
+        background-color: #1f77b4;
+    }
+    
+    .option2 {
+        background-color: #ff7f0e;
+    }
+    
+    .option3 {
+        background-color: #2ca02c;
+    }
+    
+    .option4 {
+        background-color: #9467bd;
+    }
+    
+    .option5 {
+        background-color: #bcbd22;
+    }
+    
+    .option6 {
+        background-color: #17becf;
+    }
+    </style>
+</head>
+
+<body ng-app="pollApp" ng-controller="pollCtrl">
+    <div class="container centered">
+        <div class="row poll-row">
+            <div class="col-xs-4 poll-option">
+                <button type="button" class="btn btn-block poll-option option1" ng-show="options[1]" ng-click="vote(1)">
+                    <h1>{{options[1].heading}}</h1>
+                    <p> {{options[1].text}}</p>
+                </button>
+            </div>
+            <div class="col-xs-4 poll-option">
+                <button type="button" class="btn btn-block poll-option option2" ng-show="options[2]" ng-click="vote(2)">
+                    <h1>{{options[2].heading}}</h1>
+                    <p> {{options[2].text}}</p>
+                </button>
+            </div>
+            <div class="col-xs-4 poll-option">
+                <button type="button" class="btn btn-block poll-option option3" ng-show="options[3]" ng-click="vote(3)">
+                    <h1>{{options[3].heading}}</h1>
+                    <p> {{options[3].text}}</p>
+                </button>
+            </div>
+        </div>
+        <div class="row poll-row">
+            <div class="col-xs-4 poll-row">
+                <button type="button " class="btn btn-block poll-option option4" ng-show="options[4]" ng-click="vote(4)">
+                    <h1>{{options[4].heading}}</h1>
+                    <p> {{options[4].text}}</p>
+                </button>
+            </div>
+            <div class="col-xs-4 poll-option">
+                <button type="button" class="btn btn-block poll-option option5" ng-show="options[5]" ng-click="vote(5)">
+                    <h1>{{options[5].heading}}</h1>
+                    <p> {{options[5].text}}</p>
+                </button>
+            </div>
+            <div class="col-xs-4 poll-option">
+                <button type="button" class="btn btn-block poll-option option6" ng-show="options[6]" ng-click="vote(6)">
+                    <h1>{{options[6].heading}}</h1>
+                    <p> {{options[6].text}}</p>
+                </button>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" src="/bower_components/jquery/dist/jquery.js"></script>
+    <script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.js"></script>
+    <script type="text/javascript" src="/bower_components/angular/angular.js"></script>
+    <script>
+    (function() {
+        var app = angular.module('pollApp', []);
+
+        var pollCtrlFun = function($scope, $http) {
+            var dbUrl = 'https://api.mongolab.com/api/1/databases/rockie_test';
+            var apiKey = 'Wq6LkbyEZjQJ5D-HY22jAH7XWM3T2M7z';
+            var optionsUrl = dbUrl + '/collections/options?apiKey=' + apiKey;
+            var votesUrl = dbUrl + '/collections/votes?apiKey=' + apiKey;
+            var voteInterval = 10000; // 10s
+
+            $scope.options = {};
+
+            var onError = function(response) {
+                console.log(response);
+            }
+
+            // get the client ip
+            $http.get('http://freegeoip.net/json/').then(function(response) {
+                $scope.ip = response.data.ip;
+            }, function(response) {
+                $scope.ip = "unspecified";
+            })
+
+            // get the options for the question
+            var getOptions = function() {
+
+                $http.get(optionsUrl).then(function(response) {
+                    var data = response.data
+                    for (var i in data) {
+                        var option = data[i]
+                        var id = option['option'];
+                        $scope.options[id] = option
+                    }
+
+                    $scope.lastVoteTime = new Date();
+
+                }, onError);
+            }
+
+
+            // when click to vote one of the options
+            $scope.vote = function(id) {
+                var now = new Date();
+                console.log('you vote ' + id + ' from ip ' + $scope.ip);
+
+                // too frequent vote is ignored
+                var elapsed = now - $scope.lastVoteTime;
+                if (elapsed > voteInterval) {
+                    var data = {
+                        'ip': $scope.ip,
+                        'question': $scope.options[id].question,
+                        'vote': id,
+                        'time': new Date().toUTCString()
+                    }
+
+                    // only update the vote time, if data is successfully posted
+                    $http.post(votesUrl, data).then(function(response) {
+                        console.log(response);
+                        $scope.lastVoteTime = now
+                    })
+                } else {
+                    console.log('ignore too frequent vote');
+                }
+
+            }
+            getOptions();
+        }
+
+        app.controller('pollCtrl', ['$scope', '$http', pollCtrlFun]);
+    }());
+    </script>
+</body>
+
+</html>
