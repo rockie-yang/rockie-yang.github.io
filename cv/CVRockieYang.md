@@ -32,7 +32,7 @@ Multi culture working experience.
 
 ## Github repos
 
-* [**Provide Highcharts for Apache Spark **](https://github.com/knockdata/spark-highcharts)
+* [**Provide Highcharts for Apache Spark**](https://github.com/knockdata/spark-highcharts)
 
 * [**A simple JSON converter**](https://github.com/rockiey/json-converter)
 
@@ -42,24 +42,46 @@ Multi culture working experience.
 
 ## Talks
 
-* [Spark Visualization with Highcharts @ Data Science Day Copenhagen](https://www.meetup.com/datacph/events/236374068/)
+### 2017/04/06 Simple realtime analytics with Spark & Build the simplest data pipeline
 
-* [Data Visualisation for Spark @ Big Data Stockholm Meetup](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
+> 
+> [Meetup link](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/)
+> 
+> [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
 
-* [Jenkins meets Spark: building a continuous integration intelligence](https://www.meetup.com/Stockholm-Spark/events/233937082/)
+### 2017/01/30 Spark Visualization with Highcharts @ Data Science Day Copenhagen
 
+> [Meetup link](https://www.meetup.com/datacph/events/236374068/)
+> 
+### 2016/11/03 Data Visualisation for Spark @ Big Data Stockholm Meetup
+
+> [Meetup link](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
+
+### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence
+
+> [Meetup link](https://www.meetup.com/Stockholm-Spark/events/233937082/)
+> 
 > [Record webcast: Jenkins Data Crawl](https://youtu.be/8N8VGcKmkR4)
 
 > [Record webcase: Jenkins Data Analytics](https://youtu.be/NmOYa-e7mI8)
 
-* [Sparking big data with Spark](http://rockiey.github.io/talks/sparking-bigdata/)
+### 2016/06/07 Sparking big data with Spark
+
+> [Slides](http://rockie-yang.github.io/talks/sparking-bigdata/)
+> 
 >	[Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
 
-* [Create a virtualised Kanban board in 28 hours in Hackathon](http://rockiey.github.io/talks/vikan/)
+### 2015/12/03 Development environment made easy
 
-* [Create impressive slides with impressjs](http://rockiey.github.io/talks/impress/)
+> [Prezi link](https://prezi.com/51tcag66ozle/vagrant/)
 
-* [Development environment made easy](https://prezi.com/51tcag66ozle/vagrant/)
+### 2015/11/22 Create impressive slides with impressjs
+
+> [Slides](http://rockie-yang.github.io/talks/impress/)
+
+### 2015/11/12 Create a virtualised Kanban board in 28 hours in Hackathon
+
+> [Slides](http://rockie-yang.github.io/talks/vikan/)
 
 
 ## Working Experience
@@ -228,6 +250,7 @@ Multi culture working experience.
 
 | Year | Course Length | Provider   | Course Name |
 |------|---------------|------------|-------------|
+| 2017 | 4 weeks       | Coursera   | Big Data Analysis with Scala and Spark |
 | 2016 | 3 Weeks 		| EDX 		   | BerkeleyX: CS105x Introduction to Apache Spark 
 | 2014 | 12 Weeks		| Coursera   | Computer Networks 
 | 2013 | 12 Weeks 		| Coursera   | Machine Learning @ Coursera
