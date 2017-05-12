@@ -1,4 +1,4 @@
-# Youjiang Rockie Yang CV
+# Rockie Yang CV
 ## Personal Information
 
 > **Name**:						Youjiang Rockie Yang
@@ -11,8 +11,6 @@
  
 > **Email**:						<mailto:eyouyan@gmail.com>
  
-> **Mobile Phone**:				<a href="tel:+46733495083">+46 733495083</a>
-
 ## Summary
 
 
@@ -32,7 +30,7 @@ Multi culture working experience.
 
 ## Github repos
 
-* [**Provide Highcharts for Apache Spark**](https://github.com/knockdata/spark-highcharts)
+* [**spark-highcharts**](https://github.com/knockdata/spark-highcharts) Visualize big data in spark
 
 * [**A simple JSON converter**](https://github.com/rockiey/json-converter)
 
@@ -41,6 +39,8 @@ Multi culture working experience.
 * [**Teach Kids Programming**](https://github.com/rockiey/KidsProg)
 
 ## Talks
+
+### 2017/04/26 Spark Visualization with Highcharts @ [IPExpoManchester](http://www.ipexpomanchester.com/)
 
 ### 2017/04/06 Simple realtime analytics with Spark & Build the simplest data pipeline
 
@@ -52,7 +52,7 @@ Multi culture working experience.
 ### 2017/01/30 Spark Visualization with Highcharts @ Data Science Day Copenhagen
 
 > [Meetup link](https://www.meetup.com/datacph/events/236374068/)
-> 
+
 ### 2016/11/03 Data Visualisation for Spark @ Big Data Stockholm Meetup
 
 > [Meetup link](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
