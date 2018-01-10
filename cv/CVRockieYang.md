@@ -39,50 +39,37 @@ Multi culture working experience.
 * [**Teach Kids Programming**](https://github.com/rockiey/KidsProg)
 
 ## Talks
+### 2017/11/02 Big Data Analytics with Apache Spark @ [Knockdata](https://www.meetup.com/Knock-Data-Stockholm/events/239036276/)
+
+### 2017/09/21 Big Data Visualization with Spark @ [IPExpo Stockholm](https://www.ipexponordic.com/Data-Analytics)
+
+### 2017/06/12 Data Lakes Driven By Kylo: Unparalleled Speed to Market @ [Spotify](https://www.meetup.com/stockholm-hug/events/240176137/)
 
 ### 2017/04/26 Spark Visualization with Highcharts @ [IPExpoManchester](http://www.ipexpomanchester.com/)
 
-### 2017/04/06 Simple realtime analytics with Spark & Build the simplest data pipeline
+### 2017/04/06 Build the simplest data pipeline @ [Bannerflow](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/), [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
 
-> 
-> [Meetup link](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/)
-> 
-> [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
 
-### 2017/01/30 Spark Visualization with Highcharts @ Data Science Day Copenhagen
+### 2017/01/30 Spark Visualization with Highcharts @ [Data Science Day Copenhagen](https://www.meetup.com/datacph/events/236374068/)
 
-> [Meetup link](https://www.meetup.com/datacph/events/236374068/)
 
-### 2016/11/03 Data Visualisation for Spark @ Big Data Stockholm Meetup
+### 2016/11/03 Data Visualisation for Spark @ [Big Data Stockholm Meetup](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
 
-> [Meetup link](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
+### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence @ [Spark Stokholm](https://www.meetup.com/Stockholm-Spark/events/233937082/)
 
-### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence
 
-> [Meetup link](https://www.meetup.com/Stockholm-Spark/events/233937082/)
-> 
-> [Record webcast: Jenkins Data Crawl](https://youtu.be/8N8VGcKmkR4)
+### 2016/06/07 [Sparking big data with Spark](http://rockie-yang.github.io/talks/sparking-bigdata/), [Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
 
-> [Record webcase: Jenkins Data Analytics](https://youtu.be/NmOYa-e7mI8)
+### 2015/12/03 [Development environment made easy]((https://prezi.com/51tcag66ozle/vagrant/)
 
-### 2016/06/07 Sparking big data with Spark
+### 2015/11/22 [Create impressive slides with impressjs](http://rockie-yang.github.io/talks/impress/)
 
-> [Slides](http://rockie-yang.github.io/talks/sparking-bigdata/)
-> 
->	[Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
+### 2015/11/12 [Create a virtualised Kanban board in 28 hours in Hackathon](http://rockie-yang.github.io/talks/vikan/)
 
-### 2015/12/03 Development environment made easy
 
-> [Prezi link](https://prezi.com/51tcag66ozle/vagrant/)
+## Publishment
 
-### 2015/11/22 Create impressive slides with impressjs
-
-> [Slides](http://rockie-yang.github.io/talks/impress/)
-
-### 2015/11/12 Create a virtualised Kanban board in 28 hours in Hackathon
-
-> [Slides](http://rockie-yang.github.io/talks/vikan/)
-
+### 2017/02/12 [China Air Quality Analysis](https://www.linkedin.com/pulse/china-air-quality-analysis-rockie-yang/)
 
 ## Working Experience
 
@@ -93,9 +80,9 @@ Multi culture working experience.
 
 >**Title**: 						Senior Data Engineer
 
-> **Technolgies**: `Hadoop`, `Spark`, `ELK`, `Zeppelin`, `Jenkins`, `REST`, `JSON`, `Linux`, `KVM`
+> **Technolgies**: `Hadoop`, `Spark`, `Kafka`, `Jupyterhub`, `Tensorflow`, `ELK`, `Zeppelin`, `Jenkins`, `REST`, `JSON`, `Linux`, `KVM`
 
->**Job Responsibilities**: 	Help client build to build end to end big data pipe line
+>**Job Responsibilities**: 	Help clients build to build end to end big data pipe line
 
 
 ### Period: 					2014/06 – 2016/11
@@ -250,12 +237,14 @@ Multi culture working experience.
 
 | Year | Course Length | Provider   | Course Name |
 |------|---------------|------------|-------------|
-| 2017 | 4 weeks       | Coursera   | Big Data Analysis with Scala and Spark |
+| 2018 | 3 weeks       | deeplearning.ai|[Improving Deep Neural Network](certificate/deep-learning-certificate-Improving-Deep-Neural-Networks-LPQP85NVPJ69.pdf)|
+| 2018 | 4 weeks       | deeplearning.ai|[Neural Network and Deep Learning](certificate/deep-learning-certificate-Neural-Network-and-Deep-Learning-QWZWH47QNJ4X.pdf)
+| 2017 | 4 weeks       | Coursera   | [Big Data Analysis with Scala and Spark](certificate/Big-Data-Analysis-with-Scala-and-Spark-VKJU253H7FJD.pdf) |
 | 2016 | 3 Weeks 		| EDX 		   | BerkeleyX: CS105x Introduction to Apache Spark 
-| 2014 | 12 Weeks		| Coursera   | Computer Networks 
-| 2013 | 12 Weeks 		| Coursera   | Machine Learning @ Coursera
-| 2013 | 7 Weeks			| Coursera   | Principles of Reactive Programming
-| 2012 | 7 Weeks 		| Coursera   | Functional Programming Principle in Scala
+| 2014 | 12 Weeks		| Coursera   | [Computer Networks](certificate/Computer-Networks_v1-9716541358298.pdf)
+| 2013 | 12 Weeks 		| Coursera   | [Machine Learning @ Coursera](certificate/Machine-Learning-9714891358298.pdf)
+| 2013 | 7 Weeks			| Coursera   | [Principles of Reactive Programming](certificate/Principles-of-Reactive-Programming-9714651358298.pdf)
+| 2012 | 7 Weeks 		| Coursera   | [Functional Programming Principle in Scala](certificate/Functional Programming-Principles-in-Scala-3081358298.pdf)
 | 2010 | 2 Days			| Bethelik   | Win-Win Communication Skill
 | 2009 | 2 Days			| Odd-E	   | Scrum Master
 | 2008 | 2 Days 			| Cross-Ways | Cross Culture Communication by 
