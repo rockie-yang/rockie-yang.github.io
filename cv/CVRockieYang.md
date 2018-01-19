@@ -237,6 +237,7 @@ Multi culture working experience.
 
 | Year | Course Length | Provider   | Course Name |
 |------|---------------|------------|-------------|
+| 2018 | 2 weeks       | deeplearning.ai|[Structure Machine Learning](certificate/deep-learning-certificate-Structure-Machine-learning-QQ7FTE988LY6.pdf)|
 | 2018 | 3 weeks       | deeplearning.ai|[Improving Deep Neural Network](certificate/deep-learning-certificate-Improving-Deep-Neural-Networks-LPQP85NVPJ69.pdf)|
 | 2018 | 4 weeks       | deeplearning.ai|[Neural Network and Deep Learning](certificate/deep-learning-certificate-Neural-Network-and-Deep-Learning-QWZWH47QNJ4X.pdf)
 | 2017 | 4 weeks       | Coursera   | [Big Data Analysis with Scala and Spark](certificate/Big-Data-Analysis-with-Scala-and-Spark-VKJU253H7FJD.pdf) |
