@@ -237,10 +237,12 @@ Multi culture working experience.
 
 | Year | Course Length | Provider   | Course Name |
 |------|---------------|------------|-------------|
-| 2018 | 2 weeks       | deeplearning.ai|[Structure Machine Learning](certificate/deep-learning-certificate-Structure-Machine-learning-QQ7FTE988LY6.pdf)|
-| 2018 | 3 weeks       | deeplearning.ai|[Improving Deep Neural Network](certificate/deep-learning-certificate-Improving-Deep-Neural-Networks-LPQP85NVPJ69.pdf)|
-| 2018 | 4 weeks       | deeplearning.ai|[Neural Network and Deep Learning](certificate/deep-learning-certificate-Neural-Network-and-Deep-Learning-QWZWH47QNJ4X.pdf)
-| 2017 | 4 weeks       | Coursera   | [Big Data Analysis with Scala and Spark](certificate/Big-Data-Analysis-with-Scala-and-Spark-VKJU253H7FJD.pdf) |
+|2018  | 4 Weeks       | deeplearning.ai|[Convolutional Neural Networks](deep-learning-certificate-Convolutional-Neural-Network-7RW22HBKDNMU.pdf)
+| 2018 | 2 Weeks       | deeplearning.ai|[Structure Machine Learning](certificate/deep-learning-certificate-Structure-Machine-learning-QQ7FTE988LY6.pdf)|
+| 2018 | 3 Weeks       | deeplearning.ai|[Improving Deep Neural Network](certificate/deep-learning-certificate-Improving-Deep-Neural-Networks-LPQP85NVPJ69.pdf)|
+| 2018 | 4 Weeks       | deeplearning.ai|[Neural Network and Deep Learning](certificate/deep-learning-certificate-Neural-Network-and-Deep-Learning-QWZWH47QNJ4X.pdf)
+| 2017 | 3 Days			| Teradata	| Databricks Spark Programming - Spark 105
+| 2017 | 4 Weeks       | Coursera   | [Big Data Analysis with Scala and Spark](certificate/Big-Data-Analysis-with-Scala-and-Spark-VKJU253H7FJD.pdf) |
 | 2016 | 3 Weeks 		| EDX 		   | BerkeleyX: CS105x Introduction to Apache Spark 
 | 2014 | 12 Weeks		| Coursera   | [Computer Networks](certificate/Computer-Networks_v1-9716541358298.pdf)
 | 2013 | 12 Weeks 		| Coursera   | [Machine Learning @ Coursera](certificate/Machine-Learning-9714891358298.pdf)
