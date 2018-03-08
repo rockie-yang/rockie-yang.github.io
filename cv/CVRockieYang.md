@@ -82,8 +82,16 @@ Multi culture working experience.
 
 > **Technolgies**: `Hadoop`, `Spark`, `Kafka`, `Jupyterhub`, `Tensorflow`, `ELK`, `Zeppelin`, `Jenkins`, `REST`, `JSON`, `Linux`, `KVM`
 
->**Job Responsibilities**: 	Help clients build to build end to end big data pipe line
+>**Job Responsibilities**: 	Help clients build to build end to end big data pipe line. Tuning big data platform to get best perfomance. 
 
+>**Key Projects**:
+
+
+	Building big data pipeline for deep Fraud Detection
+
+	Building big data ingestion with focus on GDPR with Kylo/NIFI
+
+	Building/Tuning data discovery platform
 
 ### Period: 					2014/06 – 2016/11
 
