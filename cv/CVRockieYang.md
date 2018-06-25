@@ -13,13 +13,14 @@
  
 ## Summary
 
-
+* Organizer, Speaker of [KnockData Stockholm > 1000 Members](https://www.meetup.com/Knock-Data-Stockholm/), [KnockData Copenhagen](https://www.meetup.com/Knock-Data-Copenhagen/), [KnockData Gothenburg](https://www.meetup.com/Knock-Data-Goteborg)
+* Diverse experience in build big data pipeline and machine learning system
 * Passionate full stack software engineer with vision and competence to transform business values to implementation with great balance of simplicity, flexibility by maximum utilising open source frameworks.
 * Solid skill to combine business and technology with persuasive presentation skill
 * Solid expertise to design high performance and reactive software.
 * 10+ years software industry experience on varies aspects from product trend analysis, customer requirements analysis, solution analysis, architecture design, team coaching, and customer workshop. 
 * Have been working in companies with different culture from state own institute, public company to multination company.
-* Have been working for different product. Have been leading small/medium products entire lifecycle from requirement analysis, architecture design, implementation, customer demonstration. Evolving big mature product from maintenance, evolvement, and revolution.
+* Have been working for different product. Have been leading small/medium/large products entire lifecycle from requirement analysis, architecture design, implementation, customer demonstration. Evolving big mature product from maintenance, evolvement, and revolution.
 * Coach experience team from requirement analysis, team setup, architecture design guidance, delivery support.
 * Possess expertise in Object-Oriented/Functional analysis/design with Java/ Scala/Python/C/C++/Javascript with deep understanding internal
 * Familiar with databases include Oracle, MongoDB.
@@ -28,7 +29,7 @@
 Multi culture working experience.
 * Fast product evaluation and competitor analysis.
 
-## Github repos
+## Example Github repos
 
 * [**spark-highcharts**](https://github.com/knockdata/spark-highcharts) Visualize big data in spark
 
@@ -39,7 +40,16 @@ Multi culture working experience.
 * [**Teach Kids Programming**](https://github.com/rockiey/KidsProg)
 
 ## Talks
-### 2017/11/02 Big Data Analytics with Apache Spark @ [Knockdata](https://www.meetup.com/Knock-Data-Stockholm/events/239036276/)
+
+### 2018/06/14 End to End Continuous Integration Intelligence @ [KnockData event at IDA, Copenhagen](https://www.meetup.com/Knock-Data-Copenhagen/events/249714744/)
+
+### 2018/06/07 0 to Understand Deep Learning in 90 Minutes with 3 Interesting Cases @ [KnockData event at Volvo Group, Gothenburg](https://www.meetup.com/Knock-Data-Goteborg/events/248572213/)
+
+### 2018/05/03 Technical Debt in Machine Learning System @ [KnockData event at Telenor](https://www.meetup.com/Knock-Data-Stockholm/events/249632918/)
+
+### 2018/04/19 Model Tracking with Analytics in Mind @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/249220929/)
+
+### 2017/11/02 Big Data Analytics with Apache Spark @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/239036276/)
 
 ### 2017/09/21 Big Data Visualization with Spark @ [IPExpo Stockholm](https://www.ipexponordic.com/Data-Analytics)
 
@@ -47,18 +57,15 @@ Multi culture working experience.
 
 ### 2017/04/26 Spark Visualization with Highcharts @ [IPExpoManchester](http://www.ipexpomanchester.com/)
 
-### 2017/04/06 Build the simplest data pipeline @ [Bannerflow](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/), [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
-
+### 2017/04/06 Build the simplest data pipeline @ [KnockData event at Bannerflow](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/), [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
 
 ### 2017/01/30 Spark Visualization with Highcharts @ [Data Science Day Copenhagen](https://www.meetup.com/datacph/events/236374068/)
 
-
 ### 2016/11/03 Data Visualisation for Spark @ [Big Data Stockholm Meetup](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
 
-### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence @ [Spark Stokholm](https://www.meetup.com/Stockholm-Spark/events/233937082/)
+### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence @ [Spark Stokholm at Ooyala](https://www.meetup.com/Stockholm-Spark/events/233937082/)
 
-
-### 2016/06/07 [Sparking big data with Spark](http://rockie-yang.github.io/talks/sparking-bigdata/), [Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
+### 2016/06/07 [Sparking big data with Spark at Ericsson](http://rockie-yang.github.io/talks/sparking-bigdata/), [Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
 
 ### 2015/12/03 [Development environment made easy]((https://prezi.com/51tcag66ozle/vagrant/)
 
