@@ -4,16 +4,14 @@
 > **Name**:						Youjiang Rockie Yang
 
 > **Gender**:						Male
-
-> **Date of Birth**:			1978/10/28
  
-> **Current Working Place**:	Stockholm (Swedish PR)
+> **Current Working Place**:	Stockholm
  
 > **Email**:						<mailto:eyouyan@gmail.com>
  
 ## Summary
 
-* Organizer, Speaker of [KnockData Stockholm > 1000 Members](https://www.meetup.com/Knock-Data-Stockholm/), [KnockData Copenhagen](https://www.meetup.com/Knock-Data-Copenhagen/), [KnockData Gothenburg](https://www.meetup.com/Knock-Data-Goteborg)
+* Organizer, Speaker of [KnockData Stockholm > 1300 Members](https://www.meetup.com/Knock-Data-Stockholm/), [Stockholm Hadoop User Group > 2100 Members](https://www.meetup.com/stockholm-hug)
 * Diverse experience in build big data pipeline and machine learning system
 * Passionate full stack software engineer with vision and competence to transform business values to implementation with great balance of simplicity, flexibility by maximum utilising open source frameworks.
 * Solid skill to combine business and technology with persuasive presentation skill
@@ -39,66 +37,38 @@ Multi culture working experience.
 
 * [**Teach Kids Programming**](https://github.com/rockiey/KidsProg)
 
-## Talks
-
-### 2018/06/14 End to End Continuous Integration Intelligence @ [KnockData event at IDA, Copenhagen](https://www.meetup.com/Knock-Data-Copenhagen/events/249714744/)
-
-### 2018/06/07 0 to Understand Deep Learning in 90 Minutes with 3 Interesting Cases @ [KnockData event at Volvo Group, Gothenburg](https://www.meetup.com/Knock-Data-Goteborg/events/248572213/)
-
-### 2018/05/03 Technical Debt in Machine Learning System @ [KnockData event at Telenor](https://www.meetup.com/Knock-Data-Stockholm/events/249632918/)
-
-### 2018/04/19 Model Tracking with Analytics in Mind @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/249220929/)
-
-### 2017/11/02 Big Data Analytics with Apache Spark @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/239036276/)
-
-### 2017/09/21 Big Data Visualization with Spark @ [IPExpo Stockholm](https://www.ipexponordic.com/Data-Analytics)
-
-### 2017/06/12 Data Lakes Driven By Kylo: Unparalleled Speed to Market @ [Spotify](https://www.meetup.com/stockholm-hug/events/240176137/)
-
-### 2017/04/26 Spark Visualization with Highcharts @ [IPExpoManchester](http://www.ipexpomanchester.com/)
-
-### 2017/04/06 Build the simplest data pipeline @ [KnockData event at Bannerflow](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/), [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
-
-### 2017/01/30 Spark Visualization with Highcharts @ [Data Science Day Copenhagen](https://www.meetup.com/datacph/events/236374068/)
-
-### 2016/11/03 Data Visualisation for Spark @ [Big Data Stockholm Meetup](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
-
-### 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence @ [Spark Stokholm at Ooyala](https://www.meetup.com/Stockholm-Spark/events/233937082/)
-
-### 2016/06/07 [Sparking big data with Spark at Ericsson](http://rockie-yang.github.io/talks/sparking-bigdata/), [Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
-
-### 2015/12/03 [Development environment made easy]((https://prezi.com/51tcag66ozle/vagrant/)
-
-### 2015/11/22 [Create impressive slides with impressjs](http://rockie-yang.github.io/talks/impress/)
-
-### 2015/11/12 [Create a virtualised Kanban board in 28 hours in Hackathon](http://rockie-yang.github.io/talks/vikan/)
-
 
 ## Publishment
 
-### 2017/02/12 [China Air Quality Analysis](https://www.linkedin.com/pulse/china-air-quality-analysis-rockie-yang/)
+- 2019 [Spark Window Function](https://medium.com/@RockieYang/spark-window-function-pyspark-version-c0f2420aeb7f)
+- 2017 [China Air Quality Analysis](https://www.linkedin.com/pulse/china-air-quality-analysis-rockie-yang/)
 
 ## Working Experience
 
 
 ### Period: 					2016/12 – Present
 
->**Company**: 					Think Big, A Teradata company
+>**Company**: 					Think Big Analytics
 
 >**Title**: 						Senior Data Engineer
 
-> **Technolgies**: `Hadoop`, `Spark`, `Kafka`, `Jupyterhub`, `Tensorflow`, `ELK`, `Zeppelin`, `Jenkins`, `REST`, `JSON`, `Linux`, `KVM`
+> **Technolgies**: `Hadoop`, `Spark`, `Kafka`, `Jupyterhub`, `Cassandra`, `Keras`, `ELK`, `Zeppelin`, `Jenkins`, `OpenCV`, `REST`, `JSON`, `Linux`, `Ansible`, `KVM`, `RabbitMQ`, `Kerberos`
 
 >**Job Responsibilities**: 	Help clients build to build end to end big data pipe line. Tuning big data platform to get best perfomance. 
 
 >**Key Projects**:
 
+    Bank Fraud Detection
+    
+    Data Discovery Platform
 
-	Building big data pipeline for deep Fraud Detection
+    Predictivemaintenance
 
-	Building big data ingestion with focus on GDPR with Kylo/NIFI
+    Operational Datalake
 
-	Building/Tuning data discovery platform
+    Machine learning Model Management
+    
+    AI Assisted Heart Disease Diagnoses
 
 ### Period: 					2014/06 – 2016/11
 
@@ -270,3 +240,44 @@ Multi culture working experience.
 | 2007 | 5 Days 			| Oracle 	   | Oracle Administration
 
 
+## Talks
+
+- 2019/06/27 [Open Big Data Achitecture](https://www.meetup.com/stockholm-hug/events/262285559/)
+
+- 2019/05/16 [AI Assisted Disease Diagnose @ Antler](https://www.meetup.com/Knock-Data-Stockholm/events/261012504/)
+
+- 2019/01/16 [Modern Data Science from 10,000 Feet Overview](https://www.meetup.com/Knock-Data-Stockholm/events/256835181/)
+
+- 2018/11/01 [0 to Understand Deep Learning in 90 Minutes with 3 Use Cases](https://www.meetup.com/Knock-Data-Stockholm/events/255450795/)
+
+- 2018/06/14 End to End Continuous Integration Intelligence @ [KnockData event at IDA, Copenhagen](https://www.meetup.com/Knock-Data-Copenhagen/events/249714744/)
+
+- 2018/06/07 0 to Understand Deep Learning in 90 Minutes with 3 Interesting Cases @ [KnockData event at Volvo Group, Gothenburg](https://www.meetup.com/Knock-Data-Goteborg/events/248572213/)
+
+- 2018/05/03 Technical Debt in Machine Learning System @ [KnockData event at Telenor](https://www.meetup.com/Knock-Data-Stockholm/events/249632918/)
+
+- 2018/04/19 Model Tracking with Analytics in Mind @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/249220929/)
+
+- 2017/11/02 Big Data Analytics with Apache Spark @ [KnockData event at FooCafe](https://www.meetup.com/Knock-Data-Stockholm/events/239036276/)
+
+- 2017/09/21 Big Data Visualization with Spark @ [IPExpo Stockholm](https://www.ipexponordic.com/Data-Analytics)
+
+- 2017/06/12 Data Lakes Driven By Kylo: Unparalleled Speed to Market @ [Spotify](https://www.meetup.com/stockholm-hug/events/240176137/)
+
+- 2017/04/26 Spark Visualization with Highcharts @ [IPExpoManchester](http://www.ipexpomanchester.com/)
+
+- 2017/04/06 Build the simplest data pipeline @ [KnockData event at Bannerflow](https://www.meetup.com/Knock-Data-Stockholm/events/237620789/), [Recorded webcast](https://youtu.be/1Xzcv-d9xzA)
+
+- 2017/01/30 Spark Visualization with Highcharts @ [Data Science Day Copenhagen](https://www.meetup.com/datacph/events/236374068/)
+
+- 2016/11/03 Data Visualisation for Spark @ [Big Data Stockholm Meetup](https://www.meetup.com/Big-Data-Stockholm/events/234664763/)
+
+- 2016/09/15 Jenkins meets Spark: building a continuous integration intelligence @ [Spark Stokholm at Ooyala](https://www.meetup.com/Stockholm-Spark/events/233937082/)
+
+- 2016/06/07 [Sparking big data with Spark at Ericsson](http://rockie-yang.github.io/talks/sparking-bigdata/), [Recorded Webcast](https://www.youtube.com/watch?v=bLeLXIbULN0)
+
+- 2015/12/03 [Development environment made easy](https://prezi.com/51tcag66ozle/vagrant/)
+
+- 2015/11/22 [Create impressive slides with impressjs](http://rockie-yang.github.io/talks/impress/)
+
+- 2015/11/12 [Create a virtualised Kanban board in 28 hours in Hackathon](http://rockie-yang.github.io/talks/vikan/)
