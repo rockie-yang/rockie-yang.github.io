@@ -11,7 +11,7 @@
  
 ## Summary
 
-* Organizer, Speaker of [KnockData Stockholm > 1300 Members](https://www.meetup.com/Knock-Data-Stockholm/), [Stockholm Hadoop User Group > 2100 Members](https://www.meetup.com/stockholm-hug)
+* Organizer, Speaker of [KnockData Stockholm](https://www.meetup.com/Knock-Data-Stockholm/) > 1300 Members, [Stockholm Hadoop User Group](https://www.meetup.com/stockholm-hug) > 2100 Members
 * Diverse experience in build big data pipeline and machine learning system
 * Passionate full stack software engineer with vision and competence to transform business values to implementation with great balance of simplicity, flexibility by maximum utilising open source frameworks.
 * Solid skill to combine business and technology with persuasive presentation skill
@@ -45,8 +45,22 @@ Multi culture working experience.
 
 ## Working Experience
 
+### Period: 					2016/12 – 2018/01
 
-### Period: 					2016/12 – Present
+>**Company**: 					H&M xAI
+
+>**Title**: 						Machine Learning Engineer
+
+> **Technolgies**: `Spark`, `Azure`, `MLFlow`, `Ansible`, `nginx`, `Kubernetes`, `Leanear Programming`
+
+>**Job Responsibilities**: 	
+
+    Solution Architecture of Sales Discout 
+    
+    Solution Architecture of Recommendation
+
+
+### Period: 					2016/12 – 2018/01
 
 >**Company**: 					Think Big Analytics
 
