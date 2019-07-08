@@ -45,7 +45,7 @@ Multi culture working experience.
 
 ## Working Experience
 
-### Period: 					2016/12 – 2018/01
+### Period: 					2019/01 – Prsent
 
 >**Company**: 					H&M xAI
 
@@ -60,7 +60,7 @@ Multi culture working experience.
     Solution Architecture of Recommendation
 
 
-### Period: 					2016/12 – 2018/01
+### Period: 					2016/12 – 2019/01
 
 >**Company**: 					Think Big Analytics
 
