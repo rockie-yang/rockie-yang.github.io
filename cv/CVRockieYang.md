@@ -1,7 +1,7 @@
-# Rockie Yang CV
+# Rocky Yang CV
 ## Personal Information
 
-> **Name**:						Youjiang Rockie Yang
+> **Name**:						Rocky Yang
 
 > **Gender**:						Male
  
@@ -45,7 +45,22 @@ Multi culture working experience.
 
 ## Working Experience
 
-### Period: 					2019/01 – Prsent
+### Period: 					2020/04 – Prsent
+
+>**Company**: 					Knock Data, Freelancer
+
+
+> **Technolgies**: `Neo4j`, `Snowflake`, `AWS`, `Javascript`
+
+>**Job Responsibilities**: 	
+
+    Customer360
+
+    Commission Incentive
+    
+    Martech
+
+### Period: 					2019/01 – 2020/03
 
 >**Company**: 					H&M xAI
 
